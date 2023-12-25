@@ -22,21 +22,21 @@ pip install pandas numpy matplotlib scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/TheEventHorizons/Waste-Sorting-Classification.git
+cd PlasticMetal-Sorting
 ```
 
 2. Run the script:
 
 ```bash
-python Classification_KNN.py
+python "Python_Script".py
 ```
 
 The script preprocesses the data, trains three different models: K-Nearest Neighbors (KNN), Logistic Regression and SGDclassifier using a standard scaler pipeline, and evaluates the model's accuracy.
 
 ## Script Overview
 
-- `Classification_KNN.py`: The main Python script.
+- `"Python_Script".py`: The main Python script.
 - `README.md`: This README file providing instructions and an overview of the script.
 - `PlasticMetal_samples.xlsx`: This Excel file contains a comprehensive dataset comprising approximately 66,000 entries on various Metal and Plastic materials, organized based on their density.
 
@@ -54,7 +54,7 @@ The script outputs the best hyperparameters found during the grid search, the co
 
 Feel free to modify the script or experiment with different classifiers to further enhance the model's performance.
 
-For a simple explanation of how the classification works, visit my [scientific outreach website](https://www.theeventhorizons.com) for accessible content on the topic.
+For a simple explanation of how the classification works, visit my [scientific outreach website](https://theeventhorizons.com/waste-allocation-load-lifter-earth-class/) for accessible content on the topic.
 
 Happy coding!
 
