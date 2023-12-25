@@ -58,7 +58,7 @@ python metal_classification.py
 
 - **Visualization:** A scatter plot is generated to visualize the metal samples in the feature space, and an unknown metallic sample is highlighted for classification.
 
-## Results
+## Result
 
 The script provides insights into the classification model's performance, helps in selecting optimal hyperparameters, and visualizes the results for better understanding.
 
