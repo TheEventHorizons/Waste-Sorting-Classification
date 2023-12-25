@@ -48,7 +48,7 @@ The script reads data from an Excel file containing information about materials,
 
 The script uses a K-Nearest Neighbors (KNN) classifier with a standard scaler pipeline. It performs a grid search for hyperparameter tuning and evaluates the model using cross-validation.
 
-## Results
+## Result
 
 The script outputs the best hyperparameters found during the grid search, the corresponding cross-validation score, and the accuracy of the final model on the test set.
 
