@@ -14,13 +14,13 @@ This repository contains a Python script for classifying metal types based on de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/knn-metal-classification.git
+git clone https://github.com/TheEventHorizons/Waste-Sorting-Classification.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd knn-metal-classification
+cd Metal-Sorting
 ```
 
 3. Install the required dependencies:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 2. Execute the script:
 
 ```bash
-python metal_classification.py
+python Classification_Metal_KNN.py
 ```
 
 3. View the results, including model accuracy, predictions, and visualizations.
