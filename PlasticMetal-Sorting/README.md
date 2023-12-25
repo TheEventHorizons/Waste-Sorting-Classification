@@ -54,4 +54,9 @@ The script outputs the best hyperparameters found during the grid search, the co
 
 Feel free to modify the script or experiment with different classifiers to further enhance the model's performance.
 
+For a simple explanation of how the classification works, visit my [scientific outreach website](https://www.theeventhorizons.com) for accessible content on the topic.
+
 Happy coding!
+
+
+
